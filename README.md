@@ -20,4 +20,4 @@
 ⭐ Check out my [ML-Journey Repository](https://github.com/raheelsha/ML-Journey)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raheel-shaukat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raheel-shaukat-b93a79304)
